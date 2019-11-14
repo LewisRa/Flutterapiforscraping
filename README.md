@@ -18,3 +18,5 @@ https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibn
 chrome://extensions/
 
 ![](images/afterJsonViewer.png)
+
+### Fix Photos
