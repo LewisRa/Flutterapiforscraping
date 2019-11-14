@@ -36,3 +36,7 @@ chrome://extensions/
 
 '''<a href="/quotes/helen_keller_101301" class="b-qt qt_101301 oncl_q" title="view quote">The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</a>'''
 ### Fix Photos
+### Over tasks that can be derive from this project
+1. Add API to flutter
+2. instead of extracting search query from http://127.0.0.1:5000/api/v1/?query=inspirational, create a (http://127.0.0.1:5000/api/v1) start page where you can type in the search query you wnat in a text field and it will direct you to  http://127.0.0.1:5000/api/v1/?)query=inspirational
+3. ...
