@@ -12,7 +12,7 @@ The browser (or proxy) sent a request that this server could not understand.' be
 Thus, to recieve the results you are looking for, navigate to http://127.0.0.1:5000/api/v1/?query=inspirational for example to recieve all  quotes from a "inspirational" search query on https://www.brainyquote.com
 
 ![](images/beforeJsonViewer.png)
-
+## JSON Viewer
 https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en
 
 chrome://extensions/
