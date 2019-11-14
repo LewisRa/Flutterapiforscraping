@@ -40,3 +40,13 @@ chrome://extensions/
 1. Add API to flutter
 2. instead of extracting search query from http://127.0.0.1:5000/api/v1/?query=inspirational, create a (http://127.0.0.1:5000/api/v1) start page where you can type in the search query you wnat in a text field and it will direct you to  http://127.0.0.1:5000/api/v1/?)query=inspirational
 3. ...
+
+
+configuration in a flask app is a way
+for us to set some default
+configurations and load different
+configuration environments depending on
+what kind of environment we're working
+with whether we're in production
+environment on the server or we're
+developing locally on our local machine
