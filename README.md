@@ -16,3 +16,5 @@ Thus, to recieve the results you are looking for, navigate to http://127.0.0.1:5
 https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en
 
 chrome://extensions/
+
+![](images/afterJsonViewer.png)
