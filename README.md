@@ -1,3 +1,34 @@
+# APIs
+
+**Classification of APIS**
+- Web service APIs
+  - SOAP
+  - XML-RDC, JSON-RPC
+  - REST
+  - Graph
+WEB
+- Web socket API
+- Library based API
+  - Javascript (Ex: Google Maps Javascipt API)
+  - Twain
+- Class Based APIs(Object oriented)
+  - Java API
+  - Andriod API
+- OS functions as routines
+  - Access to file system
+  - Access to user interface
+- Object remoting APIs 
+  - CORBA
+  - .NET remoting
+- Hardware API
+  - Video Acceleration
+  - Hard disk drives
+  - PCI buses
+  
+ Web service APIs have a web address. Smart companies build the API first and then build thier services on top of the API so thier own services use thier API. Thus, the API that is accessible by an outside developer is the same API used in production for all the services. When the company makes an update, it translates easily.  (Example: twitter)
+
+ 
+
 # Flutterapiforscraping
 
 To run flask: 
